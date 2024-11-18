@@ -40,5 +40,5 @@ Created a web application using **Flask** to provide an interactive interface fo
 - View the predicted sentiment (positive, neutral, or negative).
 
 ---
-
+![ui](https://github.com/SachinthaRajapaksha/Sentiment-Analaysis-Classification-Model/blob/main/sentiment%20analysis/demo.png)
 
